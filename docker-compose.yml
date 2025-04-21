@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  postservice:
+    build:
+      context: .
+      dockerfile: PostService/Dockerfile
+    container_name: postservice
+    ports:
+      - "6001:6001"
+    environment:
+      - ASPNETCORE_URLS=http://+:6001
+    networks:
+      - blogging_network
+    depends_on:
+      - commentservice
+
+  commentservice:
+    build:
+      context: .
+      dockerfile: CommentService/Dockerfile
+    container_name: commentservice
+    ports:
+      - "6002:6002"
+    environment:
+      - ASPNETCORE_URLS=http://+:6002
+      - PostServiceUrl=http://postservice:6001
+    networks:
+      - blogging_network
+
+networks:
+  blogging_network:
+    driver: bridge

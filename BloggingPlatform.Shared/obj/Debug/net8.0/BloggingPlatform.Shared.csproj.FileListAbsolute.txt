@@ -1,0 +1,11 @@
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/bin/Debug/net8.0/BloggingPlatform.Shared.deps.json
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/bin/Debug/net8.0/BloggingPlatform.Shared.dll
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/bin/Debug/net8.0/BloggingPlatform.Shared.pdb
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/BloggingPlatform.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/BloggingPlatform.Shared.AssemblyInfoInputs.cache
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/BloggingPlatform.Shared.AssemblyInfo.cs
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/BloggingPlatform.Shared.csproj.CoreCompileInputs.cache
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/BloggingPlatform.Shared.dll
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/refint/BloggingPlatform.Shared.dll
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/BloggingPlatform.Shared.pdb
+/Users/rehamalsaedi/W9D2_task/BloggingPlatform.Shared/obj/Debug/net8.0/ref/BloggingPlatform.Shared.dll
